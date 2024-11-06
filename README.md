@@ -68,6 +68,27 @@ This project simplifies car sales by offering a range of vehicles, scheduling te
   
 ### 9. Diagrams
 
-#### System design
+### Use Case Diagram
 
+![Use Case Diagram](docs/usecase.png)
+
+### Class Diagram
+
+![Class Diagram](docs/system design.png)
+
+### 10. Sample Output
+
+![Landing Page](docs/landingpage.png)
+
+![Home Page](docs/homepage.png)
+
+![Registration Page](docs/registration.png)
+
+![Booking Page](docs/booking.png)
+
+![Service Page](docs/service.png)
+
+![TestDrive Page](docs/testdrive.png)
+
+![Admin Page](docs/adminpage.png)
 
