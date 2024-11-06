@@ -74,7 +74,7 @@ This project simplifies car sales by offering a range of vehicles, scheduling te
 
 ### Class Diagram
 
-![Class Diagram](docs/system design.png)
+![Class Diagram](docs/systemdesign.png)
 
 ### 10. Sample Output
 
